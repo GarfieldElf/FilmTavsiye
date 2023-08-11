@@ -1,0 +1,12 @@
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\bin\Debug\FilmTavsiye.exe.config
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\bin\Debug\FilmTavsiye.exe
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\bin\Debug\FilmTavsiye.pdb
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.csproj.AssemblyReference.cache
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.Form1.resources
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.Properties.Resources.resources
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.csproj.GenerateResource.cache
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.csproj.CoreCompileInputs.cache
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.exe
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.pdb
+C:\Users\elfay\source\repos\FilmTavsiye\FilmTavsiye\obj\Debug\FilmTavsiye.Form2.resources
